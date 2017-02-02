@@ -16,6 +16,13 @@ While copyright laws and DMCA may work in your favour, but it's always a great i
 
 The plugin works in a couple of seconds. Upload the ZIP and activate the plugin, and that's it! The code present in the plugin would filter the traffic and let the good bots come and the stop the bad bots. This is your time to stop these web scraping bots and save your content from plagiarism.
 
+## Installation
+
+1. Grab the file wordpress-anti-content-theft.php and upload it at wp-content/plugins/.
+2. Move to your Plugins folder.
+3. Activate the plugin.
+4. Your blog is now protected, wohoo.
+
 ## Authors
 
 * **[Areeb Majeed](http://areebmajeed.me/)**
